@@ -1,1 +1,1 @@
-# PedeAi
+# planejaAI
