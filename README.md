@@ -1,1 +1,1 @@
-# planejaAI
+# PlanejaAI
